@@ -1,4 +1,4 @@
-# salla
+# Jumla App
 
 A new Flutter project.
 
